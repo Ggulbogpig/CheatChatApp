@@ -5,6 +5,5 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/Ggulbogpig/CheatChatApp
-	fetch = +refs/*:refs/*
-	mirror = true
+	url = https://github.com/Ggulbogpig/CheatChatApp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
