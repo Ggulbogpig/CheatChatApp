@@ -1,21 +1,6 @@
-<<<<<<< HEAD
-# first_flutter_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # CheatChatApp
 llm을 채팅앱과 결합하여 사용자 채팅 스타일로 답장을 추천해주는 맞춤형 AI 채탕앱입니다.
->>>>>>> df74170e4f666bb12403972e0e2a051872f71371
+
+개발목적:
+SNS를 통한 소통이 점차 중요해지는 현대 사회에서 수많은 대인관계는 현대사회를 피로하게 만드는 요인 중 하나이다. 직접 대면하여 관계를 형성해 나가는 것보다 비대면으로 문자를 통한 소통의 비중이 더욱 커지는 시대에 문자를 통한 소통에 피로감을 줄이고 갈등을 줄이기 위해 AI가 도움을 줄 수 있을 것이다. 또한 다양한 인간관계를 카테고리로 나누어 직장과 같은 공적인 관계에서는 이에 맞는 형식적인 답장을 사용자가 설정한 스타일에 맞추어 자동으로 추천해줌으로써 공과사를 구분하고 사적인 영역을 보호받을 수 있는 권리를 지키고자 한다. 
